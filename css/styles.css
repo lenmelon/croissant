@@ -9,8 +9,8 @@ footer {
 }
 
 img {
-  max-width: 60%;
+  max-width: 50%;
   display: block;
-  margin: auto;
+  margin: 30px auto;
   border-radius: 6px;
 }
